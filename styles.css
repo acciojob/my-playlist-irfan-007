@@ -8,10 +8,11 @@ li{
 a{
 	text-decoration:none;
 }
-div,container{
+div,container,.player_one,.player_two{
 	background-color:rgb(255,255,255);
 	padding:1rem;
 	border-radius:25px;
+	border:2px solid gray;
 }
 body{
 	background-color: rgb(204, 204, 204);
